@@ -3,8 +3,8 @@ import pygame
 import math
 import sys
 
-"""ENTER YOUR UF-ID BELOW"""
-rng_seed = 12345678
+
+rng_seed = 84831819   # Using UF-ID
 
 random.seed(rng_seed)
 
